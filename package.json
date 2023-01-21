@@ -1,0 +1,27 @@
+{
+	"name": "js-puppeteer-scrapper-crash-course",
+	"version": "1.0.0",
+	"description": " Scrapping project with puppeteer and js",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/makstyle119/js-Puppeteer-Scrapper-crash-course.git"
+	},
+	"keywords": [
+		"js",
+		"puppeteer",
+		"scrapping"
+	],
+	"author": "Mohammad Moiz Ali (MAKSTYLE119)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/makstyle119/js-Puppeteer-Scrapper-crash-course/issues"
+	},
+	"homepage": "https://github.com/makstyle119/js-Puppeteer-Scrapper-crash-course#readme",
+	"dependencies": {
+		"puppeteer": "^19.5.2"
+	}
+}

@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Tailwind CSS From Scratch",
+		"level": "TAILWINDJAN2023",
+		"url": "https://www.udemy.com/course/tailwind-from-scratch"
+	},
+	{
+		"title": "React Front To Back 2022",
+		"level": "REACTJAN2023",
+		"url": "https://www.udemy.com/course/react-front-to-back-2022/?referralCode=4A622C7E48DB66154114"
+	},
+	{
+		"title": "50 Projects in 50 Days - HTML, CSS & JavaScript",
+		"level": "50PROJECTSJAN2023",
+		"url": "https://www.udemy.com/course/50-projects-50-days/?referralCode=684EE5F9DE1745B6428B"
+	},
+	{
+		"title": "Modern HTML & CSS From The Beginning",
+		"level": "HTMLCSSJAN2023",
+		"url": "https://www.udemy.com/course/modern-html-css-from-the-beginning/?referralCode=EB0470C43F3C3E9AA306"
+	},
+	{
+		"title": "Modern JavaScript From The Beginning",
+		"level": "JSJAN2023",
+		"url": "https://www.udemy.com/course/modern-javascript-from-the-beginning/?referralCode=F3249B20C1BBE85EFEEC"
+	},
+	{
+		"title": "Next.js Dev To Deployment",
+		"level": "NEXTJAN2023",
+		"url": "https://www.udemy.com/course/nextjs-dev-to-deployment/?referralCode=7CD3920A9760E6ABEC11"
+	},
+	{
+		"title": "MERN eCommerce From Scratch",
+		"level": "MERNECOMMJAN2023",
+		"url": "https://www.udemy.com/course/mern-ecommerce/?referralCode=C8B2CD73BFA462D1219C"
+	},
+	{
+		"title": "Node.js API Masterclass",
+		"level": "NODEJAN2023",
+		"url": "https://www.udemy.com/course/nodejs-api-masterclass/?referralCode=F95A0D3B9CA1DB648F55"
+	},
+	{
+		"title": "20 Vanilla JavaScript Projects",
+		"level": "20PROJECTSJAN2023",
+		"url": "https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75"
+	},
+	{
+		"title": "Python Django Dev To Deployment",
+		"level": "DJANGOJAN2023",
+		"url": "https://www.udemy.com/course/python-django-dev-to-deployment/?referralCode=A9FE27488C451769B322"
+	},
+	{
+		"title": "PHP MVC OOP - Build a Framework",
+		"level": "PHPJAN2023",
+		"url": "https://www.udemy.com/course/object-oriented-php-mvc/?referralCode=E3FD4CD073A8AF79CF04"
+	},
+	{
+		"title": "Electron From Scratch",
+		"level": "ELECTRONJAN2023",
+		"url": "https://www.udemy.com/course/electron-from-scratch/?referralCode=D83E1593BE5EC5AFF830"
+	}
+]
